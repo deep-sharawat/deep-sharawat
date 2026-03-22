@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**deep-sharawat/deep-sharawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Deepanshu Sharawat, a B.Tech student at VIT Bhopal University.
 
-Here are some ideas to get you started:
+I am currently in 3rd year, pursuing B.Tech in CSE Core with a CGPA of 8.07
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am focusing on improving my skills in Data Structures and Algorithms,
+while also learning Japanese to prepare for future international opportunities. 
+
+My goal is to secure a good placement after graduation and build a strong career as a software engineer.
+
+
+## Project
+- Tech Compass: A full-stack web platform for structured career roadmaps.
+
+## MY Skills
+- Languages: C++, JavaScript  
+- Frontend: HTML, CSS, React  
+- Backend: Node.js, Express  
+- Databases: MySQL, MongoDB  
+- Tools: Git, GitHub, VS Code
