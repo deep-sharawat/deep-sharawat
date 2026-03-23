@@ -19,4 +19,4 @@ My goal is to secure a good placement after graduation and build a strong career
 - Backend: Node.js, Express  
 - Databases: MySQL, MongoDB  
 - Tools: Git, GitHub, VS Code
-- Cloud: AWS (Learning)
+- Cloud: AWS
