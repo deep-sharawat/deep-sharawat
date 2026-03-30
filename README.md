@@ -17,6 +17,6 @@ My goal is to secure a good placement after graduation and build a strong career
 - Languages: C++, JavaScript  
 - Frontend: HTML, CSS, React  
 - Backend: Node.js, Express  
-- Databases: MySQL, MongoDB  
+- Databases: MySQL 
 - Tools: Git, GitHub, VS Code
 - Cloud: AWS
